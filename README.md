@@ -1,1 +1,1 @@
-# data-campus-in-kyonggi-univ.
+# data-campus
