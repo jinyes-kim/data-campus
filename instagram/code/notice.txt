@@ -1,0 +1,7 @@
+crawl_link.py  # 키워드에 해당하는 링크 수집
+crawl_data.py  #수집한 링크에 접속하여 데이터 수집
+filter.py         #전처리
+make_df.py  # to csv
+
+
+insta_api.py  # 모듈 한번에 묶은 코드
