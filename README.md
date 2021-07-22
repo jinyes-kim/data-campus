@@ -1,4 +1,7 @@
-# 2020 data campus
+# 2020 Big Data Campus
+---
+### https://dataonair.or.kr/bigjob/
+---
 ![슬라이드1](https://user-images.githubusercontent.com/54028026/126581496-d70e2b01-08ac-4efb-82a4-6a33fb7a02d3.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/54028026/126581498-8cef4cc2-f748-4fdb-9a93-44ae86706ade.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/54028026/126581500-0411b476-d638-40e8-b542-57761a80c762.PNG)
